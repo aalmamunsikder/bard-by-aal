@@ -151,15 +151,15 @@ const App: React.FC = () => {
         {/* Sidebar Header */}
         <div className="h-24 flex items-center justify-center border-b border-slate-700/50">
           {sidebarOpen ? (
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-emerald-500/20">B</div>
+            <div className="flex items-center gap-3 px-4">
+              <img src="/logo/logo.png" alt="BARD Logo" className="w-10 h-10 object-contain" />
               <div>
-                <span className="text-xl font-bold text-white tracking-tight block leading-none">BARD</span>
-                <span className="text-xs font-medium text-emerald-400 tracking-wider">ERP SYSTEM</span>
+                <span className="text-sm font-bold text-white tracking-tight block leading-tight">Bangladesh Academy for</span>
+                <span className="text-xs font-medium text-emerald-400 tracking-wider">Rural Development</span>
               </div>
             </div>
           ) : (
-            <div className="w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-emerald-500/20">B</div>
+            <img src="/logo/logo.png" alt="BARD Logo" className="w-10 h-10 object-contain" />
           )}
         </div>
 

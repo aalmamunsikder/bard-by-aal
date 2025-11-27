@@ -4765,14 +4765,14 @@ const LoginScreen = ({ onLogin })=>{
                             }, void 0, false, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
                                 lineNumber: 39,
-                                columnNumber: 12
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "absolute inset-0 bg-gradient-to-br from-emerald-900/90 to-slate-900/95 mix-blend-multiply"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
                                 lineNumber: 44,
-                                columnNumber: 12
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
@@ -4798,20 +4798,37 @@ const LoginScreen = ({ onLogin })=>{
                         className: "relative z-10",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex items-center gap-3 mb-8",
+                                className: "flex items-center gap-4 mb-8",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-12 h-12 bg-emerald-500 rounded-xl flex items-center justify-center text-white font-bold text-2xl shadow-glow",
-                                        children: "B"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/logo/logo.png",
+                                        alt: "BARD Logo",
+                                        className: "w-16 h-16 object-contain drop-shadow-lg"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
                                         lineNumber: 54,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-2xl font-bold tracking-tight",
-                                        children: "BARD ERP"
-                                    }, void 0, false, {
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                className: "text-xl font-bold tracking-tight leading-tight",
+                                                children: "Bangladesh Academy for"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/LoginScreen.tsx",
+                                                lineNumber: 56,
+                                                columnNumber: 15
+                                            }, ("TURBOPACK compile-time value", void 0)),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-emerald-400 font-bold tracking-wider",
+                                                children: "Rural Development"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/LoginScreen.tsx",
+                                                lineNumber: 57,
+                                                columnNumber: 15
+                                            }, ("TURBOPACK compile-time value", void 0))
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
                                         lineNumber: 55,
                                         columnNumber: 13
@@ -4828,7 +4845,7 @@ const LoginScreen = ({ onLogin })=>{
                                     "Empowering Rural ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 58,
+                                        lineNumber: 61,
                                         columnNumber: 30
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4836,20 +4853,20 @@ const LoginScreen = ({ onLogin })=>{
                                         children: "Development"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 59,
+                                        lineNumber: 62,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     " through ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 59,
+                                        lineNumber: 62,
                                         columnNumber: 75
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     "Digital Innovation."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 57,
+                                lineNumber: 60,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4857,7 +4874,7 @@ const LoginScreen = ({ onLogin })=>{
                                 children: "A comprehensive enterprise resource planning system designed to streamline administration, training, research, and project management."
                             }, void 0, false, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 62,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
@@ -4878,25 +4895,25 @@ const LoginScreen = ({ onLogin })=>{
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                            lineNumber: 69,
+                                            lineNumber: 72,
                                             columnNumber: 80
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 69,
+                                        lineNumber: 72,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Secure Access"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 70,
+                                        lineNumber: 73,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 68,
+                                lineNumber: 71,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4908,31 +4925,31 @@ const LoginScreen = ({ onLogin })=>{
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                            lineNumber: 73,
+                                            lineNumber: 76,
                                             columnNumber: 80
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 73,
+                                        lineNumber: 76,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Eco-Friendly"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 74,
+                                        lineNumber: 77,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 72,
+                                lineNumber: 75,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/LoginScreen.tsx",
-                        lineNumber: 67,
+                        lineNumber: 70,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -4950,35 +4967,36 @@ const LoginScreen = ({ onLogin })=>{
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "mb-10",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "lg:hidden w-12 h-12 bg-emerald-600 rounded-xl flex items-center justify-center text-white font-bold text-2xl shadow-lg mb-6",
-                                        children: "B"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/logo/logo.png",
+                                        alt: "BARD Logo",
+                                        className: "lg:hidden w-16 h-16 object-contain mb-6 mx-auto"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 84,
-                                        columnNumber: 17
+                                        lineNumber: 87,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         className: "text-3xl font-bold text-slate-900 mb-2",
                                         children: "Welcome back"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 85,
-                                        columnNumber: 17
+                                        lineNumber: 88,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-slate-500",
                                         children: "Please enter your details to sign in."
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 86,
-                                        columnNumber: 17
+                                        lineNumber: 89,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 83,
-                                columnNumber: 13
+                                lineNumber: 86,
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
                                 onSubmit: handleSubmit,
@@ -4992,8 +5010,8 @@ const LoginScreen = ({ onLogin })=>{
                                                 children: "Email Address"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 93,
-                                                columnNumber: 21
+                                                lineNumber: 96,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "relative group",
@@ -5004,13 +5022,13 @@ const LoginScreen = ({ onLogin })=>{
                                                             size: 20
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                                            lineNumber: 96,
-                                                            columnNumber: 29
+                                                            lineNumber: 99,
+                                                            columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 95,
-                                                        columnNumber: 25
+                                                        lineNumber: 98,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                                         type: "text",
@@ -5020,20 +5038,20 @@ const LoginScreen = ({ onLogin })=>{
                                                         className: "w-full bg-slate-50 border border-slate-200 rounded-2xl py-3.5 pl-12 pr-4 text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-emerald-500 focus:ring-4 focus:ring-emerald-500/10 transition-all font-medium"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 98,
-                                                        columnNumber: 25
+                                                        lineNumber: 101,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 94,
-                                                columnNumber: 21
+                                                lineNumber: 97,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 92,
-                                        columnNumber: 17
+                                        lineNumber: 95,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "space-y-2",
@@ -5043,8 +5061,8 @@ const LoginScreen = ({ onLogin })=>{
                                                 children: "Password"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 110,
-                                                columnNumber: 21
+                                                lineNumber: 113,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "relative group",
@@ -5055,13 +5073,13 @@ const LoginScreen = ({ onLogin })=>{
                                                             size: 20
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                                            lineNumber: 113,
-                                                            columnNumber: 29
+                                                            lineNumber: 116,
+                                                            columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 112,
-                                                        columnNumber: 25
+                                                        lineNumber: 115,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                                         type: showPassword ? "text" : "password",
@@ -5071,8 +5089,8 @@ const LoginScreen = ({ onLogin })=>{
                                                         className: "w-full bg-slate-50 border border-slate-200 rounded-2xl py-3.5 pl-12 pr-12 text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-emerald-500 focus:ring-4 focus:ring-emerald-500/10 transition-all font-medium"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 115,
-                                                        columnNumber: 25
+                                                        lineNumber: 118,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                         type: "button",
@@ -5082,31 +5100,31 @@ const LoginScreen = ({ onLogin })=>{
                                                             size: 18
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                                            lineNumber: 127,
-                                                            columnNumber: 45
+                                                            lineNumber: 130,
+                                                            columnNumber: 35
                                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$eye$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Eye$3e$__["Eye"], {
                                                             size: 18
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/LoginScreen.tsx",
-                                                            lineNumber: 127,
-                                                            columnNumber: 68
+                                                            lineNumber: 130,
+                                                            columnNumber: 58
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 122,
-                                                        columnNumber: 25
+                                                        lineNumber: 125,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 111,
-                                                columnNumber: 21
+                                                lineNumber: 114,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 109,
-                                        columnNumber: 17
+                                        lineNumber: 112,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "p-3 rounded-xl bg-rose-50 border border-rose-100 text-rose-600 text-sm font-medium flex items-center gap-2 animate-in fade-in slide-in-from-top-2",
@@ -5115,15 +5133,15 @@ const LoginScreen = ({ onLogin })=>{
                                                 className: "w-1.5 h-1.5 rounded-full bg-rose-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 135,
-                                                columnNumber: 25
+                                                lineNumber: 138,
+                                                columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             error
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 134,
-                                        columnNumber: 21
+                                        lineNumber: 137,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "flex items-center justify-between text-sm",
@@ -5136,22 +5154,22 @@ const LoginScreen = ({ onLogin })=>{
                                                         className: "w-4 h-4 rounded border-slate-300 text-emerald-600 focus:ring-emerald-500 cursor-pointer"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 142,
-                                                        columnNumber: 25
+                                                        lineNumber: 145,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         className: "text-slate-500 font-medium group-hover:text-slate-700 transition-colors",
                                                         children: "Remember for 30 days"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                                        lineNumber: 143,
-                                                        columnNumber: 25
+                                                        lineNumber: 146,
+                                                        columnNumber: 17
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 141,
-                                                columnNumber: 21
+                                                lineNumber: 144,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                 href: "#",
@@ -5159,14 +5177,14 @@ const LoginScreen = ({ onLogin })=>{
                                                 children: "Forgot password?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                                lineNumber: 145,
-                                                columnNumber: 21
+                                                lineNumber: 148,
+                                                columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 140,
-                                        columnNumber: 17
+                                        lineNumber: 143,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "submit",
@@ -5179,8 +5197,8 @@ const LoginScreen = ({ onLogin })=>{
                                                     className: "animate-spin"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/LoginScreen.tsx",
-                                                    lineNumber: 155,
-                                                    columnNumber: 28
+                                                    lineNumber: 158,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 "Signing in..."
                                             ]
@@ -5191,21 +5209,21 @@ const LoginScreen = ({ onLogin })=>{
                                                     size: 20
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/LoginScreen.tsx",
-                                                    lineNumber: 161,
-                                                    columnNumber: 28
+                                                    lineNumber: 164,
+                                                    columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 148,
-                                        columnNumber: 17
+                                        lineNumber: 151,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 89,
-                                columnNumber: 13
+                                lineNumber: 92,
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "mt-8 text-center text-sm text-slate-500 font-medium",
@@ -5217,20 +5235,20 @@ const LoginScreen = ({ onLogin })=>{
                                         children: "Contact Admin"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LoginScreen.tsx",
-                                        lineNumber: 168,
-                                        columnNumber: 40
+                                        lineNumber: 171,
+                                        columnNumber: 36
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/LoginScreen.tsx",
-                                lineNumber: 167,
-                                columnNumber: 13
+                                lineNumber: 170,
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/LoginScreen.tsx",
-                        lineNumber: 81,
-                        columnNumber: 10
+                        lineNumber: 84,
+                        columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute bottom-6 text-center w-full text-xs text-slate-400",
@@ -5241,13 +5259,13 @@ const LoginScreen = ({ onLogin })=>{
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/LoginScreen.tsx",
-                        lineNumber: 172,
-                        columnNumber: 10
+                        lineNumber: 175,
+                        columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/LoginScreen.tsx",
-                lineNumber: 80,
+                lineNumber: 83,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -5564,11 +5582,12 @@ const App = ()=>{
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "h-24 flex items-center justify-center border-b border-slate-700/50",
                         children: sidebarOpen ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "flex items-center gap-3",
+                            className: "flex items-center gap-3 px-4",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-emerald-500/20",
-                                    children: "B"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                    src: "/logo/logo.png",
+                                    alt: "BARD Logo",
+                                    className: "w-10 h-10 object-contain"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/MainApp.tsx",
                                     lineNumber: 155,
@@ -5577,8 +5596,8 @@ const App = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-xl font-bold text-white tracking-tight block leading-none",
-                                            children: "BARD"
+                                            className: "text-sm font-bold text-white tracking-tight block leading-tight",
+                                            children: "Bangladesh Academy for"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/MainApp.tsx",
                                             lineNumber: 157,
@@ -5586,7 +5605,7 @@ const App = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "text-xs font-medium text-emerald-400 tracking-wider",
-                                            children: "ERP SYSTEM"
+                                            children: "Rural Development"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/MainApp.tsx",
                                             lineNumber: 158,
@@ -5603,9 +5622,10 @@ const App = ()=>{
                             fileName: "[project]/src/components/MainApp.tsx",
                             lineNumber: 154,
                             columnNumber: 13
-                        }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-emerald-500/20",
-                            children: "B"
+                        }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                            src: "/logo/logo.png",
+                            alt: "BARD Logo",
+                            className: "w-10 h-10 object-contain"
                         }, void 0, false, {
                             fileName: "[project]/src/components/MainApp.tsx",
                             lineNumber: 162,
