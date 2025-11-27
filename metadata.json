@@ -1,0 +1,7 @@
+{
+  "name": "BARD ERP System",
+  "description": "A comprehensive Enterprise Resource Planning system for the Bangladesh Academy for Rural Development, featuring module management, analytics, and AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
