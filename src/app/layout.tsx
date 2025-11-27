@@ -1,12 +1,17 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Hind_Siliguri } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"], variable: '--font-inter' });
+const hindSiliguri = Hind_Siliguri({
+    weight: ['300', '400', '500', '600', '700'],
+    subsets: ['bengali', 'latin'],
+    variable: '--font-hind-siliguri'
+});
 
 export const metadata: Metadata = {
-    title: "BARD ERP",
-    description: "Bangladesh Academy for Rural Development ERP System",
+    title: "BARD ERP System",
+    description: "Bangladesh Academy for Rural Development ERP",
 };
 
 export default function RootLayout({
@@ -16,7 +21,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-            <body className={`${inter.className} bg-slate-50 text-slate-800 antialiased overflow-hidden selection:bg-emerald-100 selection:text-emerald-900`}>
+            <body className={`${inter.variable} ${hindSiliguri.variable} font-sans antialiased bg-slate-50 text-slate-900`}>
                 {children}
             </body>
         </html>

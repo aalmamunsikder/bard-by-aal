@@ -65,11 +65,11 @@
 html, :host {
   -webkit-text-size-adjust: 100%;
   tab-size: 4;
+  line-height: 1.5;
+  font-family: var(--font-hind-siliguri), var(--font-inter), sans-serif;
   font-feature-settings: normal;
   font-variation-settings: normal;
   -webkit-tap-highlight-color: transparent;
-  font-family: Inter, sans-serif;
-  line-height: 1.5;
 }
 
 body {
@@ -561,10 +561,6 @@ img, video {
   height: 2.5rem;
 }
 
-.h-12 {
-  height: 3rem;
-}
-
 .h-14 {
   height: 3.5rem;
 }
@@ -667,10 +663,6 @@ img, video {
 
 .w-10 {
   width: 2.5rem;
-}
-
-.w-12 {
-  width: 3rem;
 }
 
 .w-14 {
@@ -1662,7 +1654,7 @@ img, video {
 }
 
 .font-sans {
-  font-family: Inter, sans-serif;
+  font-family: var(--font-hind-siliguri), var(--font-inter), sans-serif;
 }
 
 .text-2xl {
@@ -1976,12 +1968,6 @@ img, video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.shadow-glow {
-  --tw-shadow: 0 0 15px #22c55e4d;
-  --tw-shadow-colored: 0 0 15px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
 .shadow-inner {
   --tw-shadow: inset 0 2px 4px 0 #0000000d;
   --tw-shadow-colored: inset 0 2px 4px 0 var(--tw-shadow-color);
@@ -2014,11 +2000,6 @@ img, video {
 
 .shadow-blue-500\/30 {
   --tw-shadow-color: #3b82f64d;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-emerald-500\/20 {
-  --tw-shadow-color: #10b98133;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
@@ -2219,26 +2200,6 @@ button, a, input, select {
 .hide-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
-}
-
-.selection\:bg-emerald-100 ::selection {
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 250 229 / var(--tw-bg-opacity, 1));
-}
-
-.selection\:text-emerald-900 ::selection {
-  --tw-text-opacity: 1;
-  color: rgb(6 78 59 / var(--tw-text-opacity, 1));
-}
-
-.selection\:bg-emerald-100::selection {
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 250 229 / var(--tw-bg-opacity, 1));
-}
-
-.selection\:text-emerald-900::selection {
-  --tw-text-opacity: 1;
-  color: rgb(6 78 59 / var(--tw-text-opacity, 1));
 }
 
 .placeholder\:text-slate-400::placeholder {

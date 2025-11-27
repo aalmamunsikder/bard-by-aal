@@ -9,7 +9,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
+                sans: ['var(--font-hind-siliguri)', 'var(--font-inter)', 'sans-serif'],
             },
             colors: {
                 bard: {
